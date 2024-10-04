@@ -1,3 +1,5 @@
+> This is a fork of mitt to proper cjs/esm support. See [smeijer/mitt](https://github.com/smeijer/mitt) for this package, or [developit/mitt](https://github.com/developit/mitt) for the original source.
+
 <p align="center">
   <img src="https://i.imgur.com/BqsX9NT.png" width="300" height="300" alt="mitt">
   <br>
